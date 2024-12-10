@@ -23,6 +23,9 @@ rm -r /home/<username>/.config/xfce4
 ```
 cp -r /root/Arch-Linux-XFCE-Customization/.config/xfce4 /home/<username>/.config/
 ```
+```
+cp /root/Arch-Linux-XFCE-Customization/whiskermenu-archlinux.png /usr/share/icons/
+```
 All done!
 <br>
 Reboot your linux with the user you applied the the customizations for.
