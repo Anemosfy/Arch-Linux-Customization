@@ -4,8 +4,8 @@
 
 ---
 #### NOTE
-* Make sure your booted with root user.
-* Backup your user configurations (Located in ```/home/<username>```).
+* Make sure your booted with the root user.
+* Backup your user configurations before making any changes (Located in ```/home/<username>```).
 ---
 ## MAIN STEPS
 Install the theme and other required packages:
